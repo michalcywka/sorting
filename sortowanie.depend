@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1526495002 source:e:\dokumenty\pamsi\sortowanie\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<chrono>
+	<ctime>
+	"szybkie.cpp"
+	"scalanie.cpp"
+	"kopcowanie.cpp"
+	"wstawianie.cpp"
+	"introspektywne.cpp"
+
+1525980403 e:\dokumenty\pamsi\sortowanie\scalanie.cpp
+	<vector>
+
+1525890501 source:e:\dokumenty\pamsi\sortowanie\szybkie.cpp
+	<vector>
+
+1526496839 e:\dokumenty\pamsi\sortowanie\szybkie.cpp
+
+1525896887 source:e:\dokumenty\pamsi\sortowanie\kopcowanie.cpp
+	<vector>
+
+1525979783 e:\dokumenty\pamsi\sortowanie\kopcowanie.cpp
+
+1526496246 e:\dokumenty\pamsi\sortowanie\introspektywne.cpp
+
+1525976241 e:\dokumenty\pamsi\sortowanie\wstawianie.cpp
+
